@@ -30,4 +30,5 @@ py -3.11 -m pip install pygame
 
 ### 3. Запуск игры
 Перейдите в папку игры в командной строке **cd**
+```bash
 py -3.11 ping-pong.py
